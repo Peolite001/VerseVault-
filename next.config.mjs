@@ -1,6 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    outputFileTracingRoot:'C:\Users\HP\Documents\versevault'
-};
+const nextConfig = {};
 
 export default nextConfig;
