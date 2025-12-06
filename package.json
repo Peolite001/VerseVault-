@@ -15,7 +15,7 @@
     "firebase": "^12.2.1",
     "firebase-admin": "^12.7.0",
     "formik": "^2.4.6",
-    "next": "15.5.2",
+    "next": "^15.5.7",
     "next-auth": "^5.0.0-beta.29",
     "react": "19.1.0",
     "react-dom": "19.1.0",
