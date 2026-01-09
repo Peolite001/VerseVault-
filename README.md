@@ -1,4 +1,4 @@
-## Clone of Tubidy landing Page
+## VerseVault
 
 ## Table of contents
 
@@ -12,14 +12,10 @@
 
 ## Overview
 
-### Screenshot
-
-![Hubsport](img/hub.png) 
-
 ### Links
 
 - Solution URL: []()
-- Live Site URL: [Hobspot-Hompage Clone]()
+- Live Site URL: [VerseVault]()
 
 ## My process
 
@@ -45,4 +41,5 @@
 - Github  - [@Peolite001] (https://github.com/Peolite001)
 - LinkedIn - [Peolite001](https://www.linkedin.com/in/praisegodebubechukwu-392613260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMt%2FHeL33RH%2BaGvs4pZiXFQ%3D%3D)
 - Twitter - [@prai79461](https://x.com/prai79461)
+
 
