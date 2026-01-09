@@ -14,7 +14,7 @@
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [solution](https://github.com/Peolite001/VerseVault-.git)
 - Live Site URL: [VerseVault](https://verse-vault-copy.vercel.app/)
 
 ## My process
@@ -26,6 +26,8 @@
 - Firebase
 - Material UI
 - Formik
+- Vercel
+
 
 ## Getting Started
 
