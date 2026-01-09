@@ -41,7 +41,7 @@
 
 - Website - [Okorie PraiseGod . E.]()
 - GitHub - [Peolite001](https://github.com/Peolite001)
-- LinkedIn - [Peolite001](https://www.linkedin.com/in/praisegodebubechukwu-392613260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMt%2FHeL33RH%2BaGvs4pZiXFQ%3D%3D)
+- LinkedIn - [PraiseGod Ebubechukwu](https://www.linkedin.com/in/praisegodebubechukwu-392613260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMt%2FHeL33RH%2BaGvs4pZiXFQ%3D%3D)
 - Twitter - [@prai79461](https://x.com/prai79461)
 
 ## 🤝 Contributing
